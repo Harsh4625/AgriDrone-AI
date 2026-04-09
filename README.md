@@ -40,3 +40,5 @@ python train.py
 ###4. Running the App
 Start the Flask server to launch the web dashboard:
 python app.py
+<img width="1908" height="979" alt="image" src="https://github.com/user-attachments/assets/e71fd5b2-0aa8-49fe-b025-b4bb00f68131" />
+
