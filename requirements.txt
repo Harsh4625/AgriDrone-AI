@@ -1,0 +1,10 @@
+flask==3.0.3
+tensorflow==2.16.1
+numpy==1.26.4
+Pillow==10.3.0
+matplotlib==3.9.0
+scikit-learn==1.5.0
+reportlab==4.2.2
+werkzeug==3.0.3
+opencv-python==4.10.0.84
+tqdm==4.66.4
